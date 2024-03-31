@@ -1,6 +1,10 @@
 # EmoteCare
 
-Website: 
+Website: https://vanivaranya.github.io/EmoteCare/
+<br>
+PPT Canva link: https://www.canva.com/design/DAF8ToHueOw/ipq2jKKHJupJdcCbh_OoyQ/edit?utm_content=DAF8ToHueOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<br>
+Demo video link: https://www.loom.com/share/f6668ff386894aa88f38b48e2f01922a?sid=f1d62f10-7db7-43a7-a56c-e8f0a2d9c4f8
 
 ## Problem Statement
 
@@ -19,7 +23,7 @@ Our problem comes under SDG Goal 3: Good Health and Well-being.
 
 - *Extended Website Features:* Access to a chatbot, self reflect sessions, weekly report, therapist allocation, session scheduling, and mental health resources, for overall well being.
 
-## Improvments after Mentorship
+## Improvments
 
 - *Added a chatbot* used openai api chatbase.co for integrating a chatbot that is empathetic and friendly.
 
@@ -39,15 +43,15 @@ Our problem comes under SDG Goal 3: Good Health and Well-being.
 
 Worked on CNN and VGG16 models. Combined two datasets. While the CNN model offers much better accuracy, VGG16 gives a simpler architecture with fewer trainable parameters. But we proceeded with CNN as we focus more on the accuracy.
 
-*Model Interface:* JavaScript Webcam Capture
-
-Website Interface
-
+### Frontend 
 HTML, CSS, Javascript 
+
+### Backend
+Flask, SQLite, OpenCV
 
 ## Future Scope
 
-**Improving accuracy and architecture:** WIll be improving the efficiency of the model by training it on the data gradually received from the users.
+**Improving accuracy and architecture:** Will be improving the efficiency of the model by training it on the data gradually received from the users.
 
 
 **Community Engagement:** Partnering with advocacy groups and organizations to reduce mental health stigma and promote awareness of online therapy options.
